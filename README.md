@@ -12,3 +12,5 @@ If you have any questions, please don't hesitate to send me a message as a discu
 
 ---
 The resources in this repository are available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), as per the [License](LICENSE) included.
+
+looks cool man!
